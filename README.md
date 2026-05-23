@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: @abubakarzeeshan2010@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: no/way
 - ⚡ Fun fact: Python was not named after a snake.
 
 <!---
